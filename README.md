@@ -138,6 +138,7 @@ Vá para a pasta frontend e instale as dependências:
 cd ../frontend
 cp .env.example .env
 nano .env
+npm install --force
 ```
 
 ```bash
