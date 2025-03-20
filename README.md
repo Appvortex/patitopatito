@@ -126,6 +126,7 @@ Executa o npm install , cria o build cria as tabela e insere os registro padrão
 
 ```bash
 cd whasapoofi/backend
+npm install && npm run build
 npm install
 npm run build
 npx sequelize db:migrate
